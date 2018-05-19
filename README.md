@@ -1,8 +1,8 @@
 # co28_marjayoun_gambit.Altis
 IDF raid on Lebanon territory
 
-# NOT APPROVED
+#APPROVED
 Reviewer | Result 
 ------------ | -------------
-Vocasyan | Good
+Vocasyan | APPROVED
 n/a | n/a
