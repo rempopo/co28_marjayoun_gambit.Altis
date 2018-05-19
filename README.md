@@ -5,4 +5,4 @@ IDF raid on Lebanon territory
 Reviewer | Result 
 ------------ | -------------
 Vocasyan | APPROVED
-n/a | n/a
+Comrade | APPROVED
