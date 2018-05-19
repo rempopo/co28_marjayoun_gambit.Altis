@@ -4,5 +4,5 @@ IDF raid on Lebanon territory
 # NOT APPROVED
 Reviewer | Result 
 ------------ | -------------
-Vocasyan | n/a
+Vocasyan | Good
 n/a | n/a
